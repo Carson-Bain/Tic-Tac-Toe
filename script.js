@@ -37,7 +37,7 @@ const Gameboard = (() => {
     return {
         render,
         update,
-        getGameBoard
+        getGameBoard,
     }
 })();
 
